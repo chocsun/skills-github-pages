@@ -1,4 +1,4 @@
----
-title: Welcome to my blog
----
+Training Exercise
+title: Welcome to my intrduction blog
+Working through the exercise
 
